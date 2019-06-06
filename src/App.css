@@ -138,3 +138,15 @@ ul {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.show {
+  display: initial 
+}
+
+.hide {
+  display: none
+}
+
+.center {
+  margin: 0 auto !important;
+}
